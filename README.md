@@ -1,5 +1,5 @@
-# rwt
-RimWorld translation tool
+# RWT
+A RimWorld translation tool
 
 Import the rwt.sql to a 'rwt' database with a user/pass combi 'rwt'/'rwt' in order to have the required DB.
 
